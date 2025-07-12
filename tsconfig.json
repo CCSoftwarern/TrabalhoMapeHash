@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "target": "ES6",
+    "module": "None",
+    "lib": ["ES2016", "DOM"],
+    "outFile": "app.js",
+    "strict": true
+  }
+}
